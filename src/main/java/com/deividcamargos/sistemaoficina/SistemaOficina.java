@@ -12,6 +12,5 @@ public class SistemaOficina {
 
     public static void main(String[] args) {
         System.out.println("Testar git");
-        // commit
     }
 }
